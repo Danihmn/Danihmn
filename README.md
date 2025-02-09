@@ -1,16 +1,29 @@
-## Hi there 👋
+## E aí! Eu sou o Daniel Eduardo 👋
 
-<!--
-**Danihmn/Danihmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏻‍💼Atualmente sou assistente financeiro
+- 📘Estudo Engenharia de Software
+- 🙎🏻‍♂️Pronomes: He/His
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Danihmn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danihmn&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danihmn&layout=compact">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="www.linkedin.com/in/daniel-eduardo-pratta-bezerra-237b98258">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+##
+
+<div>
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
