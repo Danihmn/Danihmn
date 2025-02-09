@@ -1,7 +1,7 @@
 ## E aí! Eu sou o Daniel Eduardo 👋
 
 - 🧑🏻‍💼Atualmente sou assistente financeiro
-- 📘Estudo Engenharia de Software
+- 📘Sou estudante de Engenharia de Software
 - 🙎🏻‍♂️Pronomes: He/Him
 
 <div>
