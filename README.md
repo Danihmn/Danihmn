@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💼Atualmente sou assistente financeiro
 - 📘Estudo Engenharia de Software
-- 🙎🏻‍♂️Pronomes: He/His
+- 🙎🏻‍♂️Pronomes: He/Him
 
 <div>
   <a href="https://github.com/Danihmn">
