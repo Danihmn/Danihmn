@@ -1,6 +1,6 @@
 ## E aí! Eu sou o Daniel Eduardo 👋
 
-- 🧑🏻‍💼Atualmente sou assistente financeiro
+- 🧑🏻‍💼Atualmente sou Assistente Administrativo
 - 📘Sou estudante de Engenharia de Software
 
 <div>
