@@ -1,7 +1,7 @@
 ## E aí! Eu sou o Daniel Eduardo 👋
 
-- 🧑🏻‍💼Atualmente sou Assistente Administrativo
-- 📘Sou estudante de Engenharia de Software
+- 🧑🏻‍💼Assistente Administrativo
+- 📘Graduando Engenharia de Software
 
 <div>
   <a href="https://github.com/Danihmn">
