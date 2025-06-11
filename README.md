@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/Danihmn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danihmn&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danihmn&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danihmn&layout=compact&theme=dark">
 </div>
 
 ##
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-##
+## Tecnologias ##
 
 <div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
