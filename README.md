@@ -28,6 +28,13 @@
 </div>
 
 ##
+### Frameworks ###
+<div>
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />        
+</div>
+
+##
 ### Bancos de dados e SGBDs ###
 <div>
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
