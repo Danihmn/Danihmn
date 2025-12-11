@@ -1,14 +1,3 @@
-## E aí! Eu sou o Daniel Eduardo 👋
-
-
-
-<div>
-  <a href="https://github.com/Danihmn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danihmn&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danihmn&layout=compact&theme=dark">
-</div>
-
-##
 
 <div>
   <a href="http://www.linkedin.com/in/daniel-eduardo-pratta-bezerra-237b98258" target="blank">
